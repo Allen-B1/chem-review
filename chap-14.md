@@ -51,6 +51,7 @@ Amphoteric
 
 ### Base Strength
 | Strong | Weak |
+|--------|------|
 | NaOH, Ca(OH)2 (hydroxides) | NH3, etc. (everything else) |
 
 ---
