@@ -98,7 +98,7 @@ High Kb = strong base
 ---
 
 ### Kw
-Autoionization: H2O <=> H+ + OH-
+Autoionization: H2O <=> H+ + OH-  
 Kw = 1.0 * 10^-14 = [H+][OH-] = Ka * Kb
 
 ---
