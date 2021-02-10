@@ -10,13 +10,13 @@ Act as **acid and base**.
 ---
 
 ### Arrhenius Model
-Acids release H+ when (aq)
+Acids release H+ when (aq)  
 Bases release OH- when (aq)
 
 ---
 
 ### Bronsted-Lowry Model
-Acids release H+
+Acids release H+  
 Bases accept H+
 
 ---
@@ -25,7 +25,7 @@ Bases accept H+
 
 B- <=> HB
 
-B- is conjugate base of HB
+B- is conjugate base of HB  
 HB is conjugate acid of B-
 
 ---
@@ -57,15 +57,15 @@ Amphoteric
 ---
 
 ### Conjugate Acid & Base Strength
-strong acid : weak conjugate base
+strong acid : weak conjugate base  
 strong base : weak conjugate acid
 
 ---
 
 ### Salts Strength
-strong acid + strong base : Ka = Kb : neutral salt
-strong acid + weak base : Ka > Kb : acidic salt
-weak acid + strong base : Kb > Ka : basic salt
+strong acid + strong base : Ka = Kb : neutral salt  
+strong acid + weak base : Ka > Kb : acidic salt  
+weak acid + strong base : Kb > Ka : basic salt  
 highly charged metallic ion  : acidic salt
 
 ---
@@ -109,8 +109,8 @@ Kw = 1.0 * 10^-14 = [H+][OH-] = Ka * Kb
 ---
 
 ### pH & pOH
-pH = -log[H+]
-pOH = -log[OH-]
+pH = -log[H+]  
+pOH = -log[OH-]  
 pH + pOH = 14
 
 ---
