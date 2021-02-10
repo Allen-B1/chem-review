@@ -30,12 +30,6 @@ HB is conjugate acid of B-
 
 ---
 
-### Water
-Amphoteric  
-**Self-ionization**: H2O <=> H+ + OH-
-
----
-
 ## Strength & Acidity
 
 ---
@@ -104,6 +98,7 @@ High Kb = strong base
 ---
 
 ### Kw
+Autoionization: H2O <=> H+ + OH-
 Kw = 1.0 * 10^-14 = [H+][OH-] = Ka * Kb
 
 ---
