@@ -78,7 +78,7 @@ For an acid like HXOn:
 ---
 
 ### Oxide Strength
-nonmetal : acidic oxides
+nonmetal : acidic oxides  
 metallic : basic oxides
 
 ---
