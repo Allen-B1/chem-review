@@ -36,21 +36,69 @@ Amphoteric
 
 ---
 
+## Strength & Acidity
+
+---
+### Acid Strength
+| Strong | Weak |
+|--------|------|
+| HCl, HBr, HI (halides) | HF   |
+| HNO3 | HNO2 |
+| H2SO4 | HSO4- |
+| HClO3, HClO4 | HClO2 |
+
+---
+
+### Base Strength
+| Strong | Weak |
+| NaOH, Ca(OH)2 (hydroxides) | NH3, etc. (everything else) |
+
+---
+
+### Conjugate Acid & Base Strength
+strong acid : weak conjugate base
+strong base : weak conjugate acid
+
+---
+
+### Salts Strength
+strong acid + strong base : Ka = Kb : neutral salt
+strong acid + weak base : Ka > Kb : acidic salt
+weak acid + strong base : Kb > Ka : basic salt
+highly charged metallic ion  : acidic salt
+
+---
+
+### HXOn Acid Strength 
+For an acid like HXOn:  
+ - more O : more acidic
+ - high X electronegativity : more acidic
+
+---
+
+### Oxide Strength
+nonmetal : acidic oxides
+metallic : basic oxides
+
+---
+
 ## pH & Equilibrium Constants
 
 ---
 
 ### Ka
-HA <=> H+ + A-
-
+HA <=> H+ + A-  
 Ka = [H+][A-] / [HA]
+
+High Ka = strong acid
 
 ---
 
 ### Kb
-B- + H2O <=> BH + OH-
-
+B- + H2O <=> BH + OH-  
 Kb = [BH][OH-]/[B-]
+
+High Kb = strong base
 
 ---
 
@@ -65,3 +113,15 @@ pOH = -log[OH-]
 pH + pOH = 14
 
 ---
+
+### Percent Dissociation
+% dissociation = disociated conccentration / initial concentration
+
+---
+
+### Polyprotic Acids
+Ka1 > Ka2 > Ka3
+
+For H2SO4, Ka1 : H2SO4 :: Ka2 : HSO4-
+
+--- 
