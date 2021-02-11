@@ -70,8 +70,8 @@ given HXOn acid:
  - high X electronegativity : more acidic
 
 nonmetal : acidic oxides  
-metallic : basic oxides
-higher + : more acidic
+metallic : basic oxides  
+higher + : more acidic  
 greater - : more basic
 
 ---
