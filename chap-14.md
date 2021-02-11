@@ -64,16 +64,15 @@ highly charged metallic ion  : acidic salt
 
 ---
 
-### HXOn Acid Strength 
-For an acid like HXOn:  
+### Structure & Strength 
+given HXOn acid:  
  - more O : more acidic
  - high X electronegativity : more acidic
 
----
-
-### Oxide Strength
 nonmetal : acidic oxides  
 metallic : basic oxides
+higher + : more acidic
+greater - : more basic
 
 ---
 
