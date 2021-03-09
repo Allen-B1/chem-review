@@ -1,6 +1,7 @@
 #### Precipitation
 solubility = mol/L
 
+**for a given salt:**
 Q > Ksp: precipitation occurs  
 Q < Ksp: precipitation doesn't occur
 
